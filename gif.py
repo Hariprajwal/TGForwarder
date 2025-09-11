@@ -4,11 +4,11 @@ from telethon import TelegramClient
 # =========================
 # CONFIG
 # =========================
-api_id = 21891838
-api_hash = 'c1cf4ea87d4fd08fd0bf119e16174ff1'
+api_id = 
+api_hash = ''
 session_name = 'Hello123'
-source_group = -1001114301412  # group to scan
-destination_group = -1002859107627 # where to forward
+source_group = -100  # group to scan
+destination_group = -100# where to forward
 
 client = TelegramClient("user_session", api_id, api_hash)
 
